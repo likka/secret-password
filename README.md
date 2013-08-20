@@ -1,4 +1,5 @@
 secret-password
 ===============
 
-é estilo uma senha facil pra android
+Style is a password easy for android
+
